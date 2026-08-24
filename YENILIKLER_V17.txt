@@ -1,0 +1,10 @@
+V17 - SON 7 GUN FILTRESI
+- Otomatik AL sinyali yaklaşık son 168 adet 1 saatlik mumu analiz eder.
+- 7G fiyat değişimi
+- EMA20/EMA50 yapısı ve EMA20 eğimi
+- Fiyatın EMA20/EMA50 üstünde kalma oranı
+- Son 24 saat hacim değişimi
+- 7G dip/zirve aralığındaki konum
+- 7G maksimum drawdown
+- 7G Puan ve 7G Trend
+GÜÇLÜ AL için 15dk/1S/4S yanında 7G trendin de pozitif olması gerekir.

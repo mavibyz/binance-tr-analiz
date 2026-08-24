@@ -1,0 +1,10 @@
+BINANCE TR COIN TARAYICI
+
+1) ZIP dosyasina sag tiklayin.
+2) "Tumunu Ayikla" / "Extract All" secin.
+3) Olusan klasoru acin.
+4) baslat.bat dosyasina cift tiklayin.
+
+ZIP'in icinden baslat.bat dosyasini dogrudan calistirmayin.
+
+Ilk calistirmada Python paketleri yuklenecegi icin biraz bekleyin.

@@ -1,0 +1,8 @@
+V18
+- Yeni Yüksek Hacimli AL sekmesi
+- 24S TRY işlem hacmine göre sıralama
+- Stabil coinleri eleme
+- Hacimde ilk 10/20/30/50/75/100 coin seçimi
+- Minimum 24S hacim filtresi
+- Sadece yüksek hacimli coinlerde 7G + 4S + 1S + 15dk analiz
+- Hacim + teknik kalite ile Nihai Skor

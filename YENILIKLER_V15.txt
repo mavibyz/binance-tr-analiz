@@ -1,0 +1,14 @@
+V15 - ALIM / SATIM MALIYETI
+
+Yeni:
+- Alis komisyonu %
+- Satis komisyonu %
+- Opsiyonel slippage %
+- Toplam işlem maliyeti
+- Net basa bas fiyatı
+- Hedef 1/2/3 icin BRUT ve NET kar
+- Pozisyonum sekmesinde net kar/zarar
+- Komisyonlar kullanici tarafindan degistirilebilir
+
+Varsayilan komisyon %0,10 olarak konmustur.
+Kendi Binance TR hesabinizdaki gercek komisyon oranina gore degistirin.

@@ -1,0 +1,9 @@
+V13 - SERMAYE YONETIMI
+- Varsayilan sermaye: 130.000 TL
+- Islem basina maksimum risk: %0,5 - %3
+- Tek coine maksimum sermaye limiti
+- Stop mesafesine gore otomatik adet ve pozisyon tutari
+- Stop olursa maksimum TL zarar
+- Hedef 1/2/3 tahmini kar ve risk/getiri
+- Teknik + risk giris filtresi
+Program kar garantisi vermez ve otomatik emir gondermez.

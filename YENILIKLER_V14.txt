@@ -1,0 +1,7 @@
+V14
+- Binance TR order book/depth analizi
+- Alış baskısı %, satış baskısı %, alış/satış oranı, spread
+- Yakın alış/satış duvarları
+- Canlı Sinyal ekranında emir defteri baskısı
+- Dip Avcısı artık 6/6: 6. kriter emir defteri alış baskısı
+Not: Emirler iptal olabilir; order book tek başına karar değildir.

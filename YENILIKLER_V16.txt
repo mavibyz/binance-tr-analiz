@@ -1,0 +1,15 @@
+V16 - BINANCE TR GUMUS KOMISYON TARIFESI
+
+Kullanıcının paylaştığı oranlar:
+- Maker (Piyasa Yapıcı): %0,075
+- Taker (Piyasa Alıcı): %0,1125
+
+Yeni:
+- Alış emir tipi Maker/Taker seçimi
+- Satış emir tipi Maker/Taker seçimi
+- Komisyon otomatik seçilir
+- Net kar, başa baş ve işlem maliyeti seçilen emir tipine göre hesaplanır
+
+Not:
+Limit emir her zaman Maker olmak zorunda değildir.
+Emir anında mevcut karşı emirle eşleşirse Taker komisyonu oluşabilir.

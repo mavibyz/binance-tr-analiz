@@ -1,0 +1,16 @@
+V6 - CANLI SINYAL VE TREND TAKIP
+
+- Yeni 'Canli Sinyal' sekmesi.
+- 15dk + 1 saat + 4 saat ayni anda analiz edilir.
+- 30/60/120/300 saniyede otomatik yenileme.
+- AL / AL ADAYI / BEKLE / SAT ADAYI / SAT karar-destek sinyali.
+- Alim bolgesi alt/ust siniri.
+- Yapisal stop seviyesi.
+- 3 hedef seviyesi.
+- Yakın pivot destek/direnc.
+- Mevcut pozisyon icin anlik kar/zarar.
+- Gercek emir gondermez.
+
+UYARI:
+Teknik analiz garanti vermez. Stop ve hedefler mekanik kurallarla hesaplanan
+karar-destek seviyeleridir.

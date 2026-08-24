@@ -1,0 +1,15 @@
+V10 - DIP AVCISI
+
+Yeni Dip Avcisi sekmesi:
+- 30 gunluk dip
+- 60 gunluk dip
+- Dipten uzaklik yuzdesi
+- 60 gunluk fiyat araligindaki konum
+- 15dk + 1S + 4S donus teyidi
+- Dip Avcisi Skoru
+- DIBE COK YAKIN + DONUS / DIBE YAKIN + DONUS / IZLE etiketleri
+- Maksimum dip uzakligi filtresi
+
+Amaç yalnızca en çok düşmüş coinleri göstermek değil,
+dip bölgesinde toparlanma teyidi oluşanları ayırmaktır.
+Teknik analiz kesin kazanç garantisi vermez.

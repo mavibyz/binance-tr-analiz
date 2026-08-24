@@ -1,0 +1,10 @@
+V4 - COKLU ZAMAN ANALIZI
+
+- 15 dakika + 1 saat + 4 saat ayni anda analiz edilir.
+- Agirliklar: 15dk %20, 1S %35, 4S %45.
+- 4S ana trend filtresidir.
+- Her zaman diliminin puani ve RSI degeri ayri gorunur.
+- Birlesik AL / BEKLE / SAT sinyali uretilir.
+- COTI ve GPS dahil aktif TRY pariteleri otomatik taranir.
+
+Not: Teknik analiz garanti vermez ve uygulama gercek emir gondermez.

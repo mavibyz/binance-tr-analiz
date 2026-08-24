@@ -1,0 +1,11 @@
+V19 - ONAYLI EMIR PLANI
+- Yeni Emir Onayı sekmesi
+- Coin, sermaye, risk ve maksimum pozisyon seçimi
+- Maker AL / Taker SAT
+- 15dk + 1S + 4S + 7G trend
+- Emir defteri teyidi
+- Otomatik miktar, stop, hedef 1/2/3
+- Net komisyon ve başa baş
+- Kontrol listesi
+- JSON emir planı indirme
+- Gerçek emir göndermez; API anahtarı istemez.

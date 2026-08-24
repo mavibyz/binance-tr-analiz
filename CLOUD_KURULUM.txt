@@ -1,0 +1,28 @@
+BINANCE TR v20 - IPHONE'DA BILGISAYARSIZ KULLANIM
+
+Bu paket bulut sunucusunda calismak icin hazirdir.
+
+EN KOLAY YONTEM - STREAMLIT COMMUNITY CLOUD
+
+1) GitHub hesabinizda yeni bir repository olusturun.
+2) Bu klasordeki tum dosyalari repository'ye yukleyin.
+3) https://share.streamlit.io adresini acin.
+4) GitHub ile giris yapin.
+5) "Create app" / "New app" secin.
+6) Repository'nizi secin.
+7) Main file path olarak:
+   app.py
+   yazin.
+8) Deploy'a basin.
+9) Size https://....streamlit.app seklinde bir adres verilir.
+10) Bu adresi iPhone Safari'de acin.
+11) Safari > Paylas > Ana Ekrana Ekle.
+
+Bundan sonra bilgisayariniz kapali olsa da uygulama internet uzerinden calisir.
+
+ONEMLI:
+- API anahtari bu pakette yoktur ve gerekmiyor.
+- Uygulama yalnizca halka acik Binance TR piyasa verisini kullanir.
+- Gercek emir gondermez.
+- Bulut servisinin ücretsiz planinda uygulama uzun sure kullanilmazsa uykuya gecebilir;
+  tekrar acildiginda yeniden baslar.

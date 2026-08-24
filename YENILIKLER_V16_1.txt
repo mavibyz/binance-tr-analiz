@@ -1,0 +1,7 @@
+V16.1
+Varsayılan komisyon senaryosu:
+- ALIŞ: Maker (Limit) = %0,075
+- SATIŞ: Taker (Piyasa) = %0,1125
+
+Kullanıcı isterse ekrandan emir tiplerini değiştirebilir.
+Limit emir her zaman Maker garantisi vermez; anında eşleşirse Taker olabilir.

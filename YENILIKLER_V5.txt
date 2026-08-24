@@ -1,0 +1,12 @@
+V5 YENILIKLER
+
+- Yeni 'Pozisyonum' sekmesi.
+- Coin miktari ve ortalama maliyet girilebilir.
+- Anlik kar/zarar ve maliyete uzaklik.
+- 15dk + 1 saat + 4 saat teyidi.
+- 4 saatlik yerel pivotlardan daha yakin destek/direnc tespiti.
+- Iki destek ve iki direnc seviyesi.
+- Fiyat seviyelerine gore pozisyon kar/zarar senaryo tablosu.
+- Varsayilan COTI ornegi: 232044 adet, 0.5793 TRY maliyet.
+
+Uygulama teknik karar destek aracidir; otomatik emir gondermez.

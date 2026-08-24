@@ -1,0 +1,15 @@
+V11 - 5/5 HACIM TEYIDI
+
+Dip Avcisi artik 5 kriter kullanir:
+1) 15dk puan >= +1
+2) 1S puan >= +2
+3) 4S puan >= +2
+4) 4S RSI >= 45
+5) 4S son mum hacmi, onceki 20 adet 4S mumun ortalama hacminin en az %20 ustunde
+
+Yeni alanlar:
+- Donus Teyidi 0/5 ... 5/5
+- Hacim Teyidi
+- Hacim Orani
+
+5/5 en guclu teknik teyit sinifidir ancak kesin yukselis garantisi degildir.

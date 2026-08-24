@@ -1,0 +1,21 @@
+V12 - YUKSEK HACIM + YUKSEK POTANSIYEL FILTRESI
+
+Yeni:
+- Yaklasik 24 saatlik TRY islem hacmi
+- 24S hacim degisim yuzdesi
+- Minimum 24S hacim filtresi:
+  1 / 5 / 10 / 25 / 50 / 100 / 250 milyon TL
+- Minimum hedef potansiyeli filtresi:
+  %2 / %3 / %5 / %7 / %10 / %15
+- Minimum donus teyidi filtresi: 2/5 - 5/5
+- Yakin 4S dirence kadar hedef potansiyeli
+- Yeni Firsat Skoru:
+  Dip Avcisi + Likidite + Hedef Potansiyeli + Donus Teyidi
+
+Amaç:
+Düşük hacimli ve çok küçük yükseliş potansiyelli coinleri elemek,
+likiditesi yüksek ve teknik teyidi bulunan adayları öne çıkarmaktır.
+
+Not:
+24S hacim, 4 saatlik mumların son 6 adedinden yaklaşık hesaplanır.
+Teknik analiz kesin kazanç garantisi vermez.

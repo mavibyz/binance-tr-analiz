@@ -1,0 +1,13 @@
+V7 - AL/SAT UYARI SISTEMI
+
+- Sinyal AL veya SAT tarafina gectiginde Windows masaustu bildirimi.
+- Sesli uyari:
+  AL icin yukselen iki ton.
+  SAT icin dusen iki ton.
+- Streamlit ekraninda anlik toast uyari.
+- Uyarilar acilip kapatilabilir.
+- Tum AL/SAT adaylari veya sadece guclu sinyaller secilebilir.
+- Ayni sinyal icin 5/15/30/60 dakika tekrar araligi.
+- Sinyal degismedikce gereksiz tekrar uyari yapmaz.
+- Program acik oldugu surece trend otomatik kontrol edilir.
+- Gercek emir gondermez.
